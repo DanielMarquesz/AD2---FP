@@ -4,7 +4,7 @@ de pessoas até que uma string vazia seja lida.
 Escreva na saída padrão todos os nomes e sobrenomes com mais de dois caracteres que ocorreram mais que uma vez.
 Mostre-os ordenados alfabeticamente. Neste caso implemente subprograma contendo um dos métodos de ordenação visto nas aulas gravadas.
 '''
-
+T
 def nomes_digitados(lista): # Separa os nomes
     lista_geral = []
     for i in range(len(lista) - 1):
